@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Model files (too large for GitHub)
+*.bin
+*.pt
+*.pth
+*.h5
+*.ckpt
+model_output_*/
+models/chinese-bert-wwm-ext/
+
+# WandB
+wandb/
+
+# Large data files
+*.csv
+!Chinese-Stereotype-Detection/data/raw/*.csv
+
+# PDF files
+*.pdf
+
+# PowerPoint files
+*.pptx
+
+# Image files (keep confusion matrix)
+*.png
+!Chinese-Stereotype-Detection/results/confusion_matrix.png
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Emissions tracking
+emissions.csv
+
