@@ -110,7 +110,6 @@ The original HEARTS paper uses **EMGSD (Expanded Multi-Grain Stereotype Dataset)
 
 **Source: Where did data come from?**
 
-- **Platform**: Chinese social media (primarily Weibo, Zhihu)
 - **Collection Method**: Crowdsourced annotation by trained annotators
 - **Institution**: Tsinghua University Conversational AI Group
 - **Publication**: EMNLP 2022
@@ -134,10 +133,9 @@ The original HEARTS paper uses **EMGSD (Expanded Multi-Grain Stereotype Dataset)
 ### Limitations: What's missing? What biases exist?
 
 **Data Limitations**:
-1. **Platform Bias**: Primarily from Weibo/Zhihu, may not represent all Chinese internet discourse
-2. **Temporal Bias**: Collected in specific time period, language evolves
-3. **Annotation Bias**: Annotator demographics may influence labeling decisions
-4. **Topic Imbalance**: Race (40%) > Region (34%) > Gender (26%)
+1. **Temporal Bias**: Collected in specific time period, language evolves
+2. **Annotation Bias**: Annotator demographics may influence labeling decisions
+3. **Topic Imbalance**: Race (40%) > Region (34%) > Gender (26%)
 
 **What biases exist?**
 - Urban-centric content (rural voices underrepresented)
