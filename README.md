@@ -25,9 +25,9 @@
 
 - **Challenge**: Detecting stereotypical and offensive language in Chinese social media
 - **Specific Issues**:
-  - **Regional stereotypes **: Discrimination against people from specific provinces (e.g., Henan, Northeast China)
-  - **Gender stereotypes **: Sexist comments and gender-based discrimination
-  - **Racial stereotypes **: Offensive content targeting ethnic minorities or foreign nationals
+  - **Regional stereotypes**: Discrimination against people from specific provinces (e.g., Henan, Northeast China)
+  - **Gender stereotypes**: Sexist comments and gender-based discrimination
+  - **Racial stereotypes**: Offensive content targeting ethnic minorities or foreign nationals
 
 ### Problem Alignment
 
